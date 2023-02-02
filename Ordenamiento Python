@@ -1,0 +1,13 @@
+//ordenamiento de numeros
+
+print("Ingrese un numero cualquiera")
+numero_1=int(input())
+print("Ingrese un numero cualquiera")
+numero_2=int(input())
+print("Ingrese un numero cualquiera")
+numero_3=int(input())
+print("Ingrese un numero cualquiera")
+numero_4=int(input())
+numeros=[numero_1,numero_2,numero_3,numero_4 ]
+orden= sorted(numeros)
+print (orden)
